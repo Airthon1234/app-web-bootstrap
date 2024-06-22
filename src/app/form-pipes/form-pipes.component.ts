@@ -15,7 +15,7 @@ export class FormPipesComponent {
     {nombre: "Luis Raúl"},
     {nombre: "Luis Gabriel"}
   ]
-  fechaActual=new Date()
+  fechaActual = new Date()
   cursos = [
     {nombre: "Desarrollo de Aplicacion web", precio: 3200},
     {nombre: "Desarrollo de Servicio web", precio:2500},
