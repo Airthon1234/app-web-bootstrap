@@ -22,4 +22,6 @@ export class FormPipesComponent {
     {nombre: "Base de datos 2", precio: 2850},
     {nombre: "Ingles tecnico", precio: 1850},
   ]
+
+  numeroDecimal = 128.55858782
 }
